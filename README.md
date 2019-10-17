@@ -5,3 +5,5 @@ still
 no
 idea
 what i'm doing
+
+![Cute Kitten](./kitten.jpg)
