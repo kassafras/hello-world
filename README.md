@@ -7,4 +7,3 @@ idea
 what i'm doing
 
 ![Cute Kitten](./pictures/kitten.jpg)
-![Razum Dar](./pictures/Razum-dar.png)
